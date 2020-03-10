@@ -1,5 +1,6 @@
 # october-revolution  
 
+<pre>
 ###                  /~-____-_
 ###                 //;       ~~~~-~---____
 ###                ///     .'\ \           ~~/
@@ -8,6 +9,7 @@
 ###             //'_     ','~ \\          /
 ###            //    ~~~---____          /
 ###           //               ~~~~~~~--/
+</pre>
 ### this repo socialize everything in OUR device  
 
 > Prepare for the socialization, comrade!  
